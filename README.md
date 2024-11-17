@@ -105,5 +105,5 @@ Screenshot:
 
 ```
 mkdir -p android/src/main/java/qiuxiang/android_window
-flutter pub run pigeon --input lib/pigeon.dart
+dart run pigeon --input lib/pigeon.dart
 ```
