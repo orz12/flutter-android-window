@@ -22,7 +22,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-
+    namespace 'qiuxiang.android_window'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
